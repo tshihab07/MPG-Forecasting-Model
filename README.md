@@ -56,7 +56,7 @@ The project leverages the built-in `mpg` dataset from Seaborn, which contains ob
 | `cylinders` | Numerical | Number of engine cylinders |
 | `horsepower` | Numerical | Engine power output |
 | `weight` | Numerical | Vehicle weight (lbs) |
-| `car_age` | Derived | Age of vehicle in years (from 1982) |
+| `car_age` | Derived | Age of vehicle in years |
 | `origin_japan` | Binary | 1 if car is Japanese-made |
 | `origin_usa` | Binary | 1 if car is American-made |
 
