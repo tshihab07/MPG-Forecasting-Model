@@ -1,8 +1,8 @@
-# MPG Forecasting System
+# MPG Forecasting Model
 
 ## A Production-Ready Machine Learning Pipeline for Fuel Efficiency Prediction
 
-This repository contains a complete machine learning pipeline to predict **Miles Per Gallon (MPG)** for passenger vehicles using historical automotive data. The system includes **end-to-end modeling**, **hyperparameter optimization**, **model interpretation**, and **deployment-ready artifacts**.
+This repository contains a complete machine learning pipeline to predict **Miles Per Gallon (MPG)** for passenger vehicles using historical automotive data. The project includes **end-to-end modeling**, **hyperparameter optimization**, **model interpretation**, and **deployment-ready artifacts**.
 
 **Primary Goal:** Build a robust, interpretable, and high-performance regression model suitable for real-world deployment in automotive analytics or fleet management systems.
 
